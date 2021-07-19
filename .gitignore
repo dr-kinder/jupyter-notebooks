@@ -1,0 +1,8 @@
+# Ignore temporary directories.
+.ipynb_checkpoints/
+__pycache__/
+
+# Ignore temporary files.
+*.swp
+*.pyc
+
